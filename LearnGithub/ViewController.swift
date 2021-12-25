@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
             let label = UILabel()
-            label.text = "label"
+            label.text = "Hello World"
             label.translatesAutoresizingMaskIntoConstraints = false
             view.addSubview(label)
             
