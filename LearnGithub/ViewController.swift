@@ -24,7 +24,6 @@ class ViewController: UIViewController {
             view.addConstraints([centerX, centerY])
         
         
-        
     }
 
 
